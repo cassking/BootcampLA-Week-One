@@ -1,0 +1,9 @@
+---
+title: "Testing Blackjack Score"
+type: "exercise"
+description: "Learn the basics of RSpec Unit Testing by creating a core blackjack method"
+depends: "none"
+behaviors:
+  - ruby_and_rspec
+ignore:
+  - "testing-blackjack-score.md"

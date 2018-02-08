@@ -1,0 +1,9 @@
+---
+title: "Cohort Statistics"
+type: "challenge"
+description: "OOP System Check"
+tags: "system-check, oop, rspec"
+behaviors:
+  - ruby_and_rspec
+ignore:
+- "cohort-stats.md"
